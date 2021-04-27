@@ -1,6 +1,5 @@
 {
-  "data": [
-    {
+  "data": [{
       "id": 1,
       "Descricao": "Icatu Minha Aposentadoria",
       "AporteInicial": 3000,
@@ -89,6 +88,5 @@
       "TaxaAdminAnual": 1.5,
       "RentabilidadeAnual": 6,
       "Risco": 0
-    },
-  ]
+    }]
 }
