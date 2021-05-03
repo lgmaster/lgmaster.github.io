@@ -124,5 +124,14 @@
       "TaxaAdminAnual": 2.2,
       "RentabilidadeAnual": 10,
       "Risco": 2
+    },
+    {
+      "id": 15,
+      "Descricao": "AZ Quest Icatu FIC FIM",
+      "AporteInicial": 500,
+      "AporteMensal": 250,
+      "TaxaAdminAnual": 1.5,
+      "RentabilidadeAnual": 4.05,
+      "Risco": 2
     }]
 }
